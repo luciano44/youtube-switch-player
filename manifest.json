@@ -5,7 +5,10 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "action": {
-    "default_title": "execute.js will run (watch the Chrome DevTools' console)"
+    "default_title": "Watch this video on default YouTube player."
+  },
+  "icons": {
+    "16": "./icons/icon16.png"
   },
   "content_scripts": [
     {
